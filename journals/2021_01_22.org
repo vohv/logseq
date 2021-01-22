@@ -10,5 +10,11 @@ int main() { return 0; }
 :todo: 1611297225193
 :END:
 
-** TODO Task1
-** TODO Task2
+** DONE Task1
+:PROPERTIES:
+:done: 1611297288387
+:END:
+** DONE Task2
+:PROPERTIES:
+:done: 1611297289123
+:END:
