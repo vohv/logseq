@@ -11,13 +11,13 @@ int main() { return 0; }
 :later: 1611297291165
 :done: 1611297290699
 :END:
-** NOW Task1
+** LATER Task1
 :PROPERTIES:
 :later: 1611297292263
 :done: 1611297288387
 :END:
 ** LATER Task2
 :PROPERTIES:
-:done: 1611297289123
 :later: 1611297289512
+:done: 1611297289123
 :END:
