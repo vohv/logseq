@@ -1,7 +1,8 @@
 #+TITLE: Jan 22nd, 2021
 
-** TODO a
+** DONE a
 :PROPERTIES:
 :todo: 1611296693572
+:done: 1611296699563
 :END:
 **
